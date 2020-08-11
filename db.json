@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Big Tomika",
+      "email": "bigtom@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Little Dave",
+      "email": "ld@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "House Martin",
+      "email": "hm67@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Csikós Anita",
+      "email": "csiki67@gmail.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "userID": 1
+    }
+  ]
+}
